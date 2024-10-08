@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 815c311fa35ecda419872927edc36e02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2531
+        width: 396
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52260f886f50441bb9635db8ad38f0
+      internalID: -2008346021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2500
+        width: 210
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27215b04c7ad0c647bb46836bc1b862f
+      internalID: -1002274626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2089
+        width: 225
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46dc58fe5e900a4eb8d31837c724f25
+      internalID: 906146076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_4
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1799
+        width: 577
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157672c96ddc2f94493644ad79742b33
+      internalID: 78243336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1844
+        width: 504
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d598553630f4941a266bfa4c33849a
+      internalID: -185642284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2378
+        width: 282
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae6a440b19f204b91ff6886db36bb6
+      internalID: -181511542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2363
+        width: 242
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab00b4683983cb40aa5e1d4ae392daf
+      internalID: 802126743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2212
+        width: 188
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7617252a85f12044b36b390768f01da
+      internalID: 1656334784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2142
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ededab840cdd5b42aa6efa5826fe42e
+      internalID: 1580737827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_12
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1539
+        width: 256
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a5c9e3bb3c6048a4dfc28fdfadb77
+      internalID: -1326052763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_14
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1041
+        width: 543
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511548d177364944f9a636d56ab9718c
+      internalID: 1362661467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1062
+        width: 522
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63504ff91663140a19dd222fda4241
+      internalID: 2130191149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1062
+        width: 976
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6db3a046ef7d748a8a4b54b6b90676
+      internalID: -117306920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 590
+        width: 249
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08604ad586343b648bdba25f5f0a67de
+      internalID: 965013573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 593
+        width: 625
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4206229a16dba4ea9829576c68d285
+      internalID: 489909754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 594
+        width: 578
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f5b55755885f4fa49670d2ea39b54
+      internalID: -395463805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 568
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68440f9cef2f0ae4b8e982741d0b452b
+      internalID: 1402157806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_21
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 263
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49a324b0083dc44936187116da8343
+      internalID: -71509145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_22
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 229
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34abb12e985f743ae9f65f47864ade
+      internalID: -630060086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_23
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 382
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cdf0954eb5d7a4fbdcf4adc87860f8
+      internalID: 1784054704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_27
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 0
+        width: 124
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860c7fb51202aec4ebd7ea9300b4d55f
+      internalID: -2048408337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 225
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428c5b913a6d684b8cccb471b50299c
+      internalID: -457440324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_29
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 240
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190dfc8260d9c746892457934edee65
+      internalID: -610017845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CatumetGamesFurniture_30
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 0
+        width: 130
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0458b79dde1d8d4dbf1ed7d37d4a55b
+      internalID: -771212404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CatumetGamesFurniture_0: -2008346021
+      CatumetGamesFurniture_1: 1773302067
+      CatumetGamesFurniture_10: 1508607805
+      CatumetGamesFurniture_11: 595109293
+      CatumetGamesFurniture_12: -1326052763
+      CatumetGamesFurniture_13: -1049338470
+      CatumetGamesFurniture_14: 1362661467
+      CatumetGamesFurniture_15: 2130191149
+      CatumetGamesFurniture_16: -117306920
+      CatumetGamesFurniture_17: 965013573
+      CatumetGamesFurniture_18: 489909754
+      CatumetGamesFurniture_19: -395463805
+      CatumetGamesFurniture_2: -1002274626
+      CatumetGamesFurniture_20: 1402157806
+      CatumetGamesFurniture_21: -71509145
+      CatumetGamesFurniture_22: -630060086
+      CatumetGamesFurniture_23: 1784054704
+      CatumetGamesFurniture_24: 1080940267
+      CatumetGamesFurniture_25: 806139722
+      CatumetGamesFurniture_26: 1164027175
+      CatumetGamesFurniture_27: -2048408337
+      CatumetGamesFurniture_28: -457440324
+      CatumetGamesFurniture_29: -610017845
+      CatumetGamesFurniture_3: 906146076
+      CatumetGamesFurniture_30: -771212404
+      CatumetGamesFurniture_4: 78243336
+      CatumetGamesFurniture_5: -185642284
+      CatumetGamesFurniture_6: -181511542
+      CatumetGamesFurniture_7: 802126743
+      CatumetGamesFurniture_8: 1656334784
+      CatumetGamesFurniture_9: 1580737827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+﻿Research_ID,Research_Name,Research_Item_1,Research_Item_2,Research_Item_3,Stuff_1,Stuff_2,Stuff_3,Stuff_4,Stuff_5,ManaStone_type_1,ManaStone_type_2,ManaStone_type_3,ManaStone_type_4
+1,간단한 무기 연구,1,0,0,2,0,0,0,0,1,0,0,2
+2,고블린 무기 연구,504,505,506,3,4,0,0,0,11,12,0,4
+3,돌 무기 연구,507,508,0,5,6,7,0,0,13,0,0,4
+4,심화 무기 연구,502,503,0,8,9,10,0,0,11,12,13,0

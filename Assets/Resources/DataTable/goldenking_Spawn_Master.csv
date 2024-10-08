@@ -1,0 +1,4 @@
+﻿Monster_ID,Place_ID,Monster_Name_Kor,Monster_Name_Eng,Spawn_Rate
+4,4,미라,Mummy,3
+5,4,미라 주술사,Mummy_Mage,3
+6,4,현혹된 도적,Theef,3

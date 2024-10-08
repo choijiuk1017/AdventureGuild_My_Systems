@@ -1,0 +1,4 @@
+﻿Kingdom_Quest_ID,Kingdom_Quest_Name,Kingdom_Quest_Text,Kingdom_Quest_Start,Kingdom_Quest_End,Monster_ID,Guild_Reward_Fame,Adventurer_Reward_EXP
+101,킹 슬라임 처치,왕국 뒷뜰에 킹 슬라임이 출몰했다,10,13,1,10,9
+102,김영훈 처치,김영훈을 죽여라,15,18,2,15,18
+103,변영규의 지팡이 찾기,지팡이,4,7,3,20,10

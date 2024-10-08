@@ -1,0 +1,20 @@
+﻿ID,Korean_Name,Building_Name,Building_Type,Building_Value,Building_Round,Building_Time,Building_Gold,Building_Cost,Building_Tax,Building_Salary
+1,서커스,Circus,1,50,10,5,1000,11,200,500
+2,신전,Temple,2,1000,0,1,500,1001,400,0
+3,대장간,Smithy,100,0,0,0,2500,0,200,500
+4,주점,Inn,100,0,0,0,1500,0,100,1000
+5,연금술점,PotionMarket,100,0,0,0,700,0,150,1000
+6,훈련소,TrainingCenter,20,0,0,10,1700,0,500,0
+7,도서관,Library,20,0,0,10,2000,0,500,0
+8,중앙광장,Central Square,101,0,0,10,0,0,200,0
+9,벤치,Bench,3,0,0,10,0,0,0,0
+10,바닥,Floor,4,0,0,1,0,0,0,0
+11,왼쪽세로벽,LeftVerticalWallTile,4,0,0,1,0,0,0,0
+12,오른쪽세로벽,RightVerticalWallTile,4,0,0,1,0,0,0,0
+13,가로벽,HorizonTile,4,0,0,1,0,0,0,0
+14,왼쪽가로벽끝,LeftHorizonTile,4,0,0,1,0,0,0,0
+15,오른쪽가로벽끝,RightHorizonTile,4,0,0,1,0,0,0,0
+16,왼쪽아래벽,LeftBottom,4,0,0,1,0,0,0,0
+17,오른쪽아래벽,RightBottom,4,0,0,1,0,0,0,0
+18,왼쪽위벽,LeftTop,4,0,0,1,0,0,0,0
+19,오른쪽위벽,RightTop,4,0,0,1,0,0,0,0

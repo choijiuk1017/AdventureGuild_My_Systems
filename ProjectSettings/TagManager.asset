@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Adventure
+  - Furniture
+  - Building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - Adventure
+  - Furniture
+  - Entity
+  - Invisible
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindFurniture
+    uniqueID: 2220873289
+    locked: 0
+  - name: Furniture
+    uniqueID: 3665080737
+    locked: 0
+  - name: FrontFurniture
+    uniqueID: 3684853089
+    locked: 0
+  - name: Unit
+    uniqueID: 1888539579
+    locked: 0

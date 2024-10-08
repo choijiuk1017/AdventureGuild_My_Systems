@@ -1,0 +1,7 @@
+﻿Monster_ID,Monster_Name,Monster_Name_UI,Resouse,Min_HP,Max_HP,Def_HP,Part_Type,Monster_Attack,Monster_Action,Monster_Skill_1,Monster_Skill_2,Monster_Skill_3
+1,Monster1,슬라임,Monster1,0,100,100,Part_Preset_Slime,10,30,1,0,0
+2,Monster2,드래곤,Monster2,0,1000,1000,Part_Preset_Dragon,400,20,2,3,4
+3,Monster3,창병,Monster3,0,500,500,Part_Preset_Human,200,30,5,6,0
+4,Monster4,미라,Monster4,0,500,500,Part_Preset_Mummy,200,30,7,1,0
+5,Monster5,미라주술사,Monster5,0,500,500,Part_Preset_Mummy,300,30,8,0,0
+6,Monster6,현혹된 도적,Monster6,0,500,500,Part_Preset_Human,200,30,9,0,0

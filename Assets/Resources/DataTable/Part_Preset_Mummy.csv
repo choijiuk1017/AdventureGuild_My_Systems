@@ -1,0 +1,6 @@
+﻿Part_ID,Part_Name,Part_HP_Percent,Part_Percent,Part_Main_Type,Part_Sub_Type,Part_Item
+1,머리,20,10,1,0,8
+2,왼 쪽 팔,30,20,3,7,10
+3,오른 쪽 팔,30,20,3,7,10
+4,왼 쪽 다리,30,30,2,30,10
+5,오른 쪽 다리,30,30,2,30,0
